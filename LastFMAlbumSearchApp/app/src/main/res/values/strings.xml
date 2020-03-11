@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Last FM Album App</string>
+    <string name="album_title">Album Title: %1$s</string>
+    <string name="artist_name">Artist Name: %1$s</string>
+    <string name="album_name">Album Name: %1$s</string>
+    <string name="album_url">URL: %1$s</string>
+    <string name="album_streamable">Is Streamable: %1$s</string>
+    <string name="user_id">User Id:  %1$s</string>
+    <string name="album_id">Album Id:  %1$s</string>
+    <string name="placeholder_text">No Albums</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="search">Search</string>
+</resources>
